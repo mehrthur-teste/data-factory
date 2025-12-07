@@ -14,5 +14,3 @@ chmod +x 4-create-user-classes.sh
 
 chmod +x 5-create-controller.sh
 ./5-create-controller.sh
-
-# dotnet watch run --project Api.Application/Api.Application.csproj

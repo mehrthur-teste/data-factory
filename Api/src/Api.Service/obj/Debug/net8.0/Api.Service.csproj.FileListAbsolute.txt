@@ -1,0 +1,16 @@
+/Users/mac/my-own/data-factory/Api/src/Api.Service/bin/Debug/net8.0/Api.Service.deps.json
+/Users/mac/my-own/data-factory/Api/src/Api.Service/bin/Debug/net8.0/Api.Service.dll
+/Users/mac/my-own/data-factory/Api/src/Api.Service/bin/Debug/net8.0/Api.Service.pdb
+/Users/mac/my-own/data-factory/Api/src/Api.Service/bin/Debug/net8.0/Api.Domain.dll
+/Users/mac/my-own/data-factory/Api/src/Api.Service/bin/Debug/net8.0/Api.Domain.pdb
+/Users/mac/my-own/data-factory/Api/src/Api.Service/obj/Debug/net8.0/Api.Service.csproj.AssemblyReference.cache
+/Users/mac/my-own/data-factory/Api/src/Api.Service/obj/Debug/net8.0/Api.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/my-own/data-factory/Api/src/Api.Service/obj/Debug/net8.0/Api.Service.AssemblyInfoInputs.cache
+/Users/mac/my-own/data-factory/Api/src/Api.Service/obj/Debug/net8.0/Api.Service.AssemblyInfo.cs
+/Users/mac/my-own/data-factory/Api/src/Api.Service/obj/Debug/net8.0/Api.Service.csproj.CoreCompileInputs.cache
+/Users/mac/my-own/data-factory/Api/src/Api.Service/obj/Debug/net8.0/Api.Service.sourcelink.json
+/Users/mac/my-own/data-factory/Api/src/Api.Service/obj/Debug/net8.0/Api.Serv.73C609B4.Up2Date
+/Users/mac/my-own/data-factory/Api/src/Api.Service/obj/Debug/net8.0/Api.Service.dll
+/Users/mac/my-own/data-factory/Api/src/Api.Service/obj/Debug/net8.0/refint/Api.Service.dll
+/Users/mac/my-own/data-factory/Api/src/Api.Service/obj/Debug/net8.0/Api.Service.pdb
+/Users/mac/my-own/data-factory/Api/src/Api.Service/obj/Debug/net8.0/ref/Api.Service.dll

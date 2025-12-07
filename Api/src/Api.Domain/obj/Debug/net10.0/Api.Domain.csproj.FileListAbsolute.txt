@@ -1,0 +1,12 @@
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/bin/Debug/net10.0/Api.Domain.deps.json
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/bin/Debug/net10.0/Api.Domain.dll
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/bin/Debug/net10.0/Api.Domain.pdb
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/obj/Debug/net10.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/obj/Debug/net10.0/Api.Domain.AssemblyInfoInputs.cache
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/obj/Debug/net10.0/Api.Domain.AssemblyInfo.cs
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/obj/Debug/net10.0/Api.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/obj/Debug/net10.0/Api.Domain.sourcelink.json
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/obj/Debug/net10.0/Api.Domain.dll
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/obj/Debug/net10.0/refint/Api.Domain.dll
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/obj/Debug/net10.0/Api.Domain.pdb
+/Users/mac/my-own/data-factory/Api/src/Api.Domain/obj/Debug/net10.0/ref/Api.Domain.dll
